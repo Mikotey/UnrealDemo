@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SampleProject",
+			"Path": "H:\\GitHub\\UnrealDemo\\SampleProject\\Source\\SampleProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SampleProjectEditor",
+			"Path": "H:\\GitHub\\UnrealDemo\\SampleProject\\Source\\SampleProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

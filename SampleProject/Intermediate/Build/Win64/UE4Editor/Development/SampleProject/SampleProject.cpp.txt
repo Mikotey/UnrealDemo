@@ -1,0 +1,2 @@
+H:\GitHub\UnrealDemo\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\Definitions.SampleProject.h
+H:\GitHub\UnrealDemo\SampleProject\Source\SampleProject\SampleProject.h

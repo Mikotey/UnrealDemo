@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\GitHub\\UnrealDemo\\SampleProject\\Source\\SampleProject\\SampleProject.Build.cs",
+		"H:\\GitHub\\UnrealDemo\\SampleProject\\Source\\SampleProject.Target.cs",
+		"H:\\GitHub\\UnrealDemo\\SampleProject\\Source\\SampleProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

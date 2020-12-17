@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SampleProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D31956EC-38B9-422C-BDDB-6483ADE24113}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SampleProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SampleProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B3767BD2-4D6D-4BE5-B616-28A8B61668AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SampleProject">
+      <UniqueIdentifier>{DA740E44-4241-4711-AB32-B4A3E718203F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SampleProject\SampleProject.Build.cs">
+      <Filter>Source\SampleProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SampleProject\SampleProject.cpp">
+      <Filter>Source\SampleProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleProject\SampleProject.h">
+      <Filter>Source\SampleProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleProject\SampleProjectCharacter.cpp">
+      <Filter>Source\SampleProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleProject\SampleProjectCharacter.h">
+      <Filter>Source\SampleProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleProject\SampleProjectGameMode.cpp">
+      <Filter>Source\SampleProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleProject\SampleProjectGameMode.h">
+      <Filter>Source\SampleProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
